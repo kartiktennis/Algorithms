@@ -1,7 +1,7 @@
 
 public class QuickUnion {
 
-		private int[] id; //takes in array where indidces represent the different componenets being tested
+		private int[] id; //takes in array where indices represent the different components being tested
 		
 		public QuickUnion(int N) {
 			for (int i = 0; i < N; i++) {
